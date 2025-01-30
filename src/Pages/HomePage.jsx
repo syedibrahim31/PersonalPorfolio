@@ -97,6 +97,9 @@ const HomePage = ({ Lottie }) => {
               React JS <i className="fa-brands fa-react" style={{ color: '#61dbfb' }}></i>
             </li>
             <li>
+              React Native <i className="fa-brands fa-react" style={{ color: '#61dbfb' }}></i>
+            </li>
+            <li>
               Jest JS <img src={JestLogo} alt="" style={{ width: '25px', height: '25px' }} />
             </li>
             <li>

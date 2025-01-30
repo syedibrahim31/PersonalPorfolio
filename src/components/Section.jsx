@@ -42,7 +42,7 @@ const Section = ({Lottie}) => {
                 </div>
                 <animated.div ref={ProjectTextRef} className="secChild1" style={ProjectTextAnimation}>
                     <p className='project-line'>
-                        <span className="main-text" style={{ fontSize: "30px", fontWeight: 'bold' }}>Successfully</span> completed 1 freelancing project and created 4 side projects, including 2 major full-stack projects.
+                        <span className="main-text" style={{ fontSize: "30px", fontWeight: 'bold' }}>Successfully</span>  created 3 side projects, including 1 major full-stack projects and worked on 1 freelancing project.
                     </p>
                     <h6 className="project-line">
                         <Link style={{ color: '#6B5B95' }} to='/projects'>
